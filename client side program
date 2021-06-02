@@ -1,0 +1,7 @@
+import socket
+s=socket.socket()
+serevrip="give server ip"
+serverport=give some port
+s.connect((severip,serverport))
+print(s.recv(1024))
+data1=s.send(b'5.1,3.5,1.4,0.2')
