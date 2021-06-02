@@ -4,3 +4,4 @@ This model brings clear idea we can even built models using Networking Interface
 use one more OS or andrio phone where you  can install any app to run client side program
 here 4 floats values are input to our model sepal length,sepal width,petal length,petal width
 Note : make sure you take of data type convertion bytes,string,floats you can observe how converstions in socket_ml file
+Make sure you give correct ip and port they should match in order to recieve input from client
